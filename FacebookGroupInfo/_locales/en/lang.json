@@ -1,0 +1,34 @@
+{
+    "Cấu hình addon" : "Addon Configuration",
+    "Mật khẩu" : "Password",
+    "Nhập mật khẩu" : "Fill in password",
+    "Nhập username" : "Fill in username",
+    "Tên đăng nhập" : "Username",
+    "Nếu không lấy được tin, bạn hãy click vào record, sau đó click chuột phải vào vùng cần nhập rồi click ra trang web, vùng bôi đỏ sẽ được lấy về, sau đó bạn submit, nếu submit thành công thì hệ thống sẽ lấy tin theo cách bạn thực hiện."
+    :"If you do not get the message, please click on the record, then right-click and then click to enter the site, because that area will be taken on, then you submit, submit if successful, the system will retrieve information the way you perform.",
+    "Cấu hình đã lưu!" :"Options saved.",
+    "Thông báo" : "Information",
+    "Lưu cấu hình" : "Save Configuration",
+    
+
+    "Danh mục" : "Categories",
+    "Chọn danh mục" : "Choose categories",
+    "Danh mục lấy tin" : "Crawler category",
+    "Tiêu đề" : "Title",
+    "Mô tả" : "Description",
+    "Hình ảnh" : "Image",
+    "Link nguồn" : "Source link",
+    "Nội dung" : "Content",
+    
+    "Gửi bài" : "Submit",
+    "Thu thập": "Record",
+    "Lấy tin":"Crawler",
+    "Tuỳ chọn":"Options",
+    "Dừng" : "Stop",
+    "Thông báo lỗi": "Error Notice",
+    "Không thể gửi dữ liệu lúc này được, bạn hãy thử lại sau":"Unable to send data at this time, you should try again later",
+    "Thêm mới thành công":"Added Successfully",
+    "Lưu cấu hình thành công":"Save the configuration successfully",
+    
+    "Domain hết hạn" : "Domain expired"
+}

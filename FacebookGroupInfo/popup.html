@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="bootstrap/css/bootstrap-theme.min.css">
+<link rel="stylesheet" type="text/css" href="bootstrap/gritter/css/jquery.gritter.css" />
+
+<link rel="stylesheet" href="popup.css">
+
+
+<script type="text/javascript" src="jquery.min.js"></script>
+	<!-- Latest compiled and minified JavaScript -->
+	<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+	<script src="bootstrap/chosen-bootstrap/chosen/chosen.jquery.min.js"></script>
+	<script src="bootstrap/gritter/js/jquery.gritter.js"></script>
+	<script type="text/javascript" src="lib/utils.js"></script>
+	<script type="text/javascript" src="popup.js"></script>
+    </head>
+    <body>
+        <div class="hidden" id="code"></div>
+        <div class="panel panel-default" id="account_list">
+                <div class="panel-heading">
+                	<b lang-key="Facebook account list">Facebook group list</b>
+				</div> 
+                <div class="panel-body">
+                    <div class="row preview-box" id="listAccount">
+                        <ul class="list-unstyled">
+                        <!--<li  uid="524178967653573">
+                            
+                            <div class="pull-left info">
+                            <img src="http://graph.facebook.com/524178967653573/picture" 
+                                 class="img-thumbnail">
+                            </div>
+                            <div class="pull-left action">
+                                <span class="pull-left labelAcc">Chợ FaceBook Online</span> <br/>  
+                                <a href="javascript:void(0)" class="pull-left">
+                                <span class="glyphicon glyphicon-user"></span>
+                                509,518 members
+                                </a>
+                            </div>
+                            <div class="pull-right action">
+                                <a href="javascript:void(0)" class="pull-right">
+                                <span class="glyphicon glyphicon-trash removeAcc"></span>
+                                </a>
+                            </div>
+                        
+                        </li>-->
+                        
+                        </ul>
+                    
+                    </div>
+                    
+                </div>  
+            
+            <div class="panel-footer">
+                        
+                     <div class="row">
+                         
+         <form class="form-inline">
+
+      <div class="form-group form-group-sm pull-left">
+      
+        <input type="text" class="form-control" id="txtGroupID" placeholder="Group ID or Name(seperate by ,)">
+      </div>
+      <button type="button" class="btn btn-primary pull-right" id="btnAccountAdd" lang-key="Add an group">Add group</button>
+    </form>
+                                            </div>
+                
+            </div>
+            </div>
+       
+    </body>
+</html>
